@@ -10,7 +10,7 @@ A modern Flutter expandable tab bar UI with smooth tab expansion, active state a
 - Responsive tab bar layout
 - Modern Flutter UI motion
 - Pure Flutter without packages
-
+ 
 ## Run Project
 
 ```bash
