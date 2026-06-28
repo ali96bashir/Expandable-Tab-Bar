@@ -1,4 +1,4 @@
-name: Expandable Tab Bar
+name: expandable_tab_bar
 description: ""
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
